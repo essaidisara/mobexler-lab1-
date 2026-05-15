@@ -146,7 +146,7 @@ adb devices
 
 
 
-➡️ Capture :
+ Capture :
 
 * `adb connect`
 * `adb devices`
@@ -156,7 +156,7 @@ adb devices
 <img width="940" height="507" alt="image" src="https://github.com/user-attachments/assets/15288341-f878-424a-826a-93c8aa77f8ff" />
 <img width="919" height="532" alt="image" src="https://github.com/user-attachments/assets/74609f3d-1655-4ec7-b3be-fe14fa2c7773" />
 
-# ⚠️ Problème rencontré
+#  Problème rencontré
 
 Un conflit de versions et de ports ADB a été observé entre :
 
@@ -186,7 +186,7 @@ Cependant :
 
 ---
 
-# 💾 Étape 6 — Création du Snapshot
+#  Étape 6 — Création du Snapshot
 
 Snapshot créé :
 
@@ -201,7 +201,7 @@ Permet de restaurer rapidement un environnement propre avant les futurs labs.
 
 ---
 
-# ✅ Conclusion
+#  Conclusion
 
 Le laboratoire Mobexler a été installé et configuré avec succès dans VirtualBox.
 
