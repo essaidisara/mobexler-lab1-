@@ -50,7 +50,7 @@ Le setup inclut :
 
 ---
 
-# 🌐 Étape 2 — Configuration réseau
+#  Étape 2 — Configuration réseau
 
 ## Adapter 1
 
@@ -68,7 +68,7 @@ Adapter 2 → Host-Only
 ```
 
 
-➡️ Capture de `Settings → Network` dans VirtualBox montrant :
+ Capture de `Settings → Network` dans VirtualBox montrant :
 
 * NAT
 * Host-Only Adapter
@@ -76,7 +76,7 @@ Adapter 2 → Host-Only
 
 ---
 
-# 🔍 Étape 3 — Vérification des interfaces réseau
+#  Étape 3 — Vérification des interfaces réseau
 
 Commande utilisée :
 
@@ -95,7 +95,7 @@ Interfaces détectées :
 
 ---
 
-# 📱 Étape 4 — Configuration Android Emulator
+#  Étape 4 — Configuration Android Emulator
 
 Émulateur utilisé :
 
@@ -115,9 +115,9 @@ Résultat :
 emulator-5554    device
 ```
 
-## 📸 Screenshot à insérer ici
+##  Screenshot à insérer ici
 
-➡️ Capture de :
+ Capture de :
 
 * Android Emulator lancé
  <img width="223" height="501" alt="image" src="https://github.com/user-attachments/assets/b4b8731b-1d64-40ec-bd92-d43a6d1c8229" />
@@ -128,7 +128,7 @@ emulator-5554    device
 
 ---
 
-# 🔧 Étape 5 — Tests ADB
+#  Étape 5 — Tests ADB
 
 Tests de communication entre Mobexler et Android Emulator.
 
